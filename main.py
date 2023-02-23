@@ -7,3 +7,4 @@ result = json.dumps(names)
 file.write(result)
 
 file.close()
+#000
